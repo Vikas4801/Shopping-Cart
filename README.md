@@ -47,7 +47,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## Screenshots
 
-![Shopping Cart](screenshot.png)
+![Shopping Cart]("C:\Users\SPARK PLUG\Pictures\Screenshots\SparkEcommerce.png")
 
 ## Contributing
 
