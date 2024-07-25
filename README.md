@@ -1,5 +1,9 @@
 # Shopping Cart
 
+# Live link
+
+[https://myfavsuperheroes.netlify.app/](https://sparkecommerce.netlify.app/cart)
+
 This is a simple Shopping Cart application built using HTML, CSS, and JavaScript. The application allows users to add multiple products to the cart, view the products in the cart along with price details, and manage the cart items by increasing, decreasing, or deleting them. Users can also clear the entire cart if needed.
 
 ## Features
@@ -47,7 +51,10 @@ To get a local copy up and running, follow these simple steps.
 
 ## Screenshots
 
-![Shopping Cart]("C:\Users\SPARK PLUG\Pictures\Screenshots\SparkEcommerce.png")
+![SparkEcommerce](https://github.com/user-attachments/assets/0cce1d4a-a2e8-4bdc-a333-14f0c3f2395a)
+
+![SparkEcommerce (2)](https://github.com/user-attachments/assets/bd90c48c-4b47-4de1-aff6-2aff760e05b2)
+
 
 ## Contributing
 
